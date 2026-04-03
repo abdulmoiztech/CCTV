@@ -29,7 +29,6 @@ This project is designed to showcase surveillance solutions, security systems, a
 * HTML5
 * CSS3
 * JavaScript
-* (Add if used: Bootstrap / Tailwind / React etc.)
 
 ---
 
@@ -38,14 +37,7 @@ This project is designed to showcase surveillance solutions, security systems, a
 * Home
 * About Us
 * Services
-* Portfolio
 * Contact
-
----
-
-## 📸 Screenshots
-
-*Add screenshots of your project here*
 
 ---
 
@@ -71,11 +63,5 @@ This project was created as a **client-based website** to help businesses:
 
 ## 📞 Contact
 
-* Email: [your-email@example.com](mailto:your-email@example.com)
-* WhatsApp: +92-XXXXXXXXXX
-
----
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
+* Email: [moiz56091@gmail.com](mailto:your-email@example.com)
+* WhatsApp: +92-3118354527
