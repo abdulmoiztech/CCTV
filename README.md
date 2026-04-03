@@ -1,20 +1,43 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/67641631-ee07-417a-8f5e-62590b5c153a
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+📹 CCTV & IT Support Website
+A modern, high-converting business website built for a CCTV Installation & IT Support company.
+This project is designed to showcase surveillance solutions, security systems, and IT services with a strong focus on lead generation and user experience.
+________________________________________
+🚀 Live Preview
+👉 Add your live website link here
+(https://ammad-cctv.netlify.app/)
+________________________________________
+🧩 Features
+•	🔐 Professional CCTV services showcase
+•	💻 IT Support & Managed Services section
+•	🌐 Responsive design (Mobile + Desktop)
+•	⚡ Fast and optimized performance
+•	📞 Lead generation (Call / WhatsApp CTA)
+•	⭐ Testimonials & trust-building sections
+•	🧠 Conversion-focused layout
+________________________________________
+🛠️ Tech Stack
+•	HTML5
+•	CSS3
+•	JavaScript
+________________________________________
+📂 Pages Included
+•	Home
+•	About Us
+•	Services
+•	Contact
+________________________________________
+🎯 Purpose
+This project was created as a client-based website to help businesses:
+•	Improve security with CCTV solutions
+•	Get reliable IT support
+•	Build trust with customers
+•	Generate more leads online
+________________________________________
+👨💻 Author
+Abdul Moiz
+•	💼 Web Developer
+•	📍 Karachi, Pakistan
+________________________________________
+📞 Contact
+•	Email: moiz56091@gmail.com
+•	Number: +92 3118354527
